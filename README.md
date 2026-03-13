@@ -1,5 +1,5 @@
 # Pizza Sales Performance Analysis 🍕📊
-![Pizza Sales Performance Analysis](dashboard-1.png)
+![Pizza Sales Performance Analysis](dashboard.png)
 
 ## Project Overview
 This project focuses on analyzing sales data for a pizza restaurant to gain insights into customer purchasing patterns. The dashboard tracks key metrics such as total revenue, order volume, and peak ordering times to help improve operational efficiency and marketing strategies.
